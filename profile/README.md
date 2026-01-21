@@ -8,4 +8,4 @@ Nuestro objetivo es brindar transparencia, eficiencia, estandarización y equida
 
 Definimos transparencia como la capacidad para entender el rendimiento de cada uno de los alumnos, profesores, metodologías y del sistema en su conjunto.
 
-Esto nos permitirá alcanzar el máximo potencial de cada alumno mediante la personalización de los contenidos y de la metodología de aprendizaje.
+Esto permitirá que cada alumno pueda alcanzar el máximo de su potencial mediante la personalización de los contenidos y de la metodología de aprendizaje.
